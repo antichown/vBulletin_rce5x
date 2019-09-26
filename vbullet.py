@@ -49,7 +49,7 @@ def inject( u ):
 def main():
     
     print (Style.BRIGHT)
-    print("vBulletin 5.x 0day pre-auth RCE | coder 0x94 | twitter.com/0x94")
+    print("vBulletin 5.x 0day pre-auth RCE Scanner | twitter.com/0x94")
     start        = timer()
     file_string  = ''
     final_result = []
